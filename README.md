@@ -1,2 +1,2 @@
 # lemon.github.io
-Lemon lessons
+Lemon course lessons
